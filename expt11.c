@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 int main() {
 int intArr[5];
 float floatArr[5];
